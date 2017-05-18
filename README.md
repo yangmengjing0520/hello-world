@@ -1,7 +1,4 @@
 # hello-world
 this is my first repository!Yeah!
 
-this is something about 
-
-
-fsak fhjksafsadjfksaf
+this is something about myself.
